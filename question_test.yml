@@ -1,0 +1,41 @@
+questions:
+  - id: 1
+    question: "Trường Đại học Sao Đỏ có những hình thức tuyển sinh nào?"
+  - id: 2
+    question: "Làm thế nào để đăng ký nguyện vọng xét tuyển vào Trường Đại học Sao Đỏ?"
+  - id: 3
+    question: "Điểm trúng tuyển ngành Công nghệ Thông tin vào năm 2023 là bao nhiêu?"
+  - id: 4
+    question: "Điều kiện xét tuyển theo học bạ vào Trường Đại học Sao Đỏ là gì?"
+  - id: 5
+    question: "Thí sinh có thể thay đổi nguyện vọng sau khi đã đăng ký không?"
+  - id: 6
+    question: "Thời gian đăng ký xét tuyển đại học năm 2024 là khi nào?"
+  - id: 7
+    question: "Trường có xét tuyển thẳng học sinh giỏi quốc gia không?"
+  - id: 8
+    question: "Các tổ hợp môn xét tuyển ngành Kế toán tại Trường Đại học Sao Đỏ là gì?"
+  - id: 9
+    question: "Học phí của Trường Đại học Sao Đỏ năm học 2024-2025 là bao nhiêu?"
+  - id: 10
+    question: "Làm thế nào để tra cứu kết quả trúng tuyển tại Trường Đại học Sao Đỏ?"
+  - id: 11
+    question: "Trường Đại học Sao Đỏ có ký túc xá cho sinh viên không?"
+  - id: 12
+    question: "Có thể đăng ký xét tuyển vào nhiều ngành trong cùng một trường không?"
+  - id: 13
+    question: "Thí sinh cần chuẩn bị những giấy tờ gì để nhập học?"
+  - id: 14
+    question: "Trường có chính sách học bổng cho sinh viên không?"
+  - id: 15
+    question: "Làm thế nào để xác nhận nhập học trực tuyến?"
+  - id: 16
+    question: "Trường có chương trình đào tạo liên kết quốc tế không?"
+  - id: 17
+    question: "Thời gian công bố kết quả xét tuyển đại học năm 2024 là khi nào?"
+  - id: 18
+    question: "Trường có hỗ trợ việc làm cho sinh viên sau khi tốt nghiệp không?"
+  - id: 19
+    question: "Thí sinh có thể đăng ký xét tuyển bằng chứng chỉ IELTS không?"
+  - id: 20
+    question: "Ngành Kỹ thuật Điện - Điện tử của trường có chương trình đào tạo thực hành không?"
