@@ -11,7 +11,7 @@ conversations:
     - https://dut.udn.vn/
   - - Trang thông tin tuyển sinh của trường là gì?
     - https://dut.udn.vn/TuyenSinh2024
-  - - Trường có trang Facebook không? Nếu có, địa chỉ là gì?
+  - - Trường có trang Facebook không? Nếu địa chỉ là gì?
     - Địa chỉ Facebook https://www.facebook.com/DUTpage
   - - Số điện thoại liên hệ tuyển sinh của trường là gì?
     - 0888 477 377; 0888 377 177; 0888 577 277; 0236 36 20 999
@@ -26,7 +26,7 @@ conversations:
   - - Trường Đại học Bách khoa - Đà Nẵng nằm ở quận nào của thành phố Đà Nẵng?
     - Quận Liên Chiểu
   - - Thí sinh ở tỉnh khác có thể đăng ký xét tuyển vào trường không?
-    - Có, trường tuyển sinh trên toàn quốc.
+    - trường tuyển sinh trên toàn quốc.
   - - Trang tuyển sinh của trường có địa chỉ chính xác là gì?
     - https://dut.udn.vn/TuyenSinh2024
   - - Tên viết tắt của trường là gì?
@@ -38,9 +38,9 @@ conversations:
   - - Có thể cập nhật thông tin tuyển sinh của trường qua mạng xã hội nào?
     - Thí sinh có thể theo dõi trang Facebook là https://www.facebook.com/DUTpage.
   - - Trường có cung cấp thông tin tuyển sinh trực tuyến không?
-    - Có, thông tin tuyển sinh được cập nhật trên trang https://dut.udn.vn/TuyenSinh2024
+    - thông tin tuyển sinh được cập nhật trên trang https://dut.udn.vn/TuyenSinh2024
   - - Trường Đại học Bách khoa - Đại học Đà Nẵng có nằm trong hệ thống Đại học Đà Nẵng không?
-    - Có, trường là một thành viên của Đại học Đà Nẵng.
+    - trường là một thành viên của Đại học Đà Nẵng.
   - - Chỉ tiêu tuyển sinh năm 2024 là bao nhiêu?
     - CHỈ TIÊU TUYỂN SINH (DỰ KIẾN) là 3650 CHỈ TIÊU
   - - Thời gian nhận hồ sơ xét tuyển theo phương thức tuyển sinh riêng của trường là khi nào?
@@ -80,7 +80,7 @@ conversations:
   - - Thí sinh có thể thay đổi nguyện vọng sau khi đã đăng ký trực tuyến không?
     - Không, thí sinh không được thay đổi nguyện vọng sau khi đã xác nhận trên hệ thống.
   - - Nếu thí sinh không đăng ký phương thức xét tuyển riêng, có thể tham gia xét tuyển bằng phương thức khác không?
-    - Có, thí sinh có thể tham gia xét tuyển bằng các phương thức khác theo quy định của Bộ GDĐT.
+    - thí sinh có thể tham gia xét tuyển bằng các phương thức khác theo quy định của Bộ GDĐT.
   - - Hệ thống xử lý nguyện vọng của thí sinh do ai quản lý?
     - Hệ thống xử lý nguyện vọng do Bộ Giáo dục và Đào tạo (GDĐT) quản lý.
   - - Các thí sinh không đăng ký nguyện vọng xét tuyển ở đợt xét tuyển sớm có dược được xử lý nguyện vọng trên hệ thống của Bộ GDĐT không.
@@ -152,7 +152,7 @@ conversations:
   - - Trường nào tổ chức thi môn năng khiếu Vẽ mỹ thuật để xét tuyển ngành Kiến trúc?
     - Trường Đại học Bách khoa, Đại học Đà Nẵng tổ chức thi môn năng khiếu Vẽ mỹ thuật.
   - - Năm 2024, Trường Đại học Bách khoa, Đại học Đà Nẵng có tổ chức thi năng khiếu cho ngành Kiến trúc không?
-    - Có, trường tổ chức thi môn Vẽ mỹ thuật cho thí sinh xét tuyển ngành Kiến trúc.
+    - trường tổ chức thi môn Vẽ mỹ thuật cho thí sinh xét tuyển ngành Kiến trúc.
   - - Điểm tối thiểu để được xét tuyển ngành Kiến trúc tại Đại học Bách khoa Đà Nẵng là bao nhiêu?
     - Thí sinh cần đạt tối thiểu 5,00 điểm môn Vẽ mỹ thuật để được xét tuyển.
   - - Thí sinh có thể xem chi tiết về nguyên tắc xét tuyển ngành Kiến trúc ở đâu?
@@ -202,7 +202,7 @@ conversations:
   - - Thí sinh cần làm gì để hồ sơ xét tuyển hợp lệ?
     - Thí sinh phải đảm bảo thông tin đầy đủ, chính xác và chỉ nộp một hồ sơ xét tuyển trong thời gian quy định.
   - - Có giới hạn số lần đăng ký xét tuyển học bạ không?
-    - Có, mỗi thí sinh chỉ được đăng ký một lần và không được thay đổi sau khi xác nhận.
+    - mỗi thí sinh chỉ được đăng ký một lần và không được thay đổi sau khi xác nhận.
   - - Đăng ký xét tuyển học bạ có cần nộp bản cứng hồ sơ không?
     - Không, thí sinh chỉ cần đăng ký trực tuyến tại hệ thống của trường.
   - - Nếu thí sinh muốn thay đổi nguyện vọng sau khi nộp hồ sơ thì có được không?
@@ -214,7 +214,7 @@ conversations:
   - - Khi nào thí sinh có thể biết kết quả xét tuyển học bạ?
     - Thông tin về kết quả xét tuyển sẽ được công bố sau thời gian xét tuyển theo quy định của trường.
   - - Trường hợp thí sinh không trúng tuyển theo phương thức học bạ thì có thể xét tuyển bằng phương thức khác không?
-    - Có, thí sinh có thể xét tuyển theo các phương thức khác nếu đủ điều kiện.
+    - thí sinh có thể xét tuyển theo các phương thức khác nếu đủ điều kiện.
   - - Có cần chứng thực học bạ trước khi đăng ký xét tuyển học bạ không?
     - Không, thí sinh chỉ cần nhập thông tin trực tuyến theo yêu cầu của hệ thống.
   - - Điều kiện để đăng ký xét tuyển theo phương thức học bạ là gì?
@@ -238,9 +238,9 @@ conversations:
   - - Trang web nào cung cấp thông tin chi tiết về nguyên tắc xét tuyển?
     - Thông tin chi tiết xem tại https://dut.udn.vn/Tuyensinh2024/Gioithieu/id/8919.
   - - Nếu không đặt ngành đã đủ điều kiện trúng tuyển là nguyện vọng 1, thí sinh có bị ảnh hưởng không?
-    - Có, nếu không đặt ngành đã đủ điều kiện trúng tuyển là nguyện vọng 1, thí sinh có thể không đảm bảo được trúng tuyển vào ngành đó.
+    - nếu không đặt ngành đã đủ điều kiện trúng tuyển là nguyện vọng 1, thí sinh có thể không đảm bảo được trúng tuyển vào ngành đó.
   - - Xét tuyển sớm có áp dụng cho tất cả các ngành tại Đại học Bách khoa Đà Nẵng không?
-    - Có, nhưng đối với ngành Kiến trúc, thí sinh phải thi môn năng khiếu Vẽ mỹ thuật và đạt ít nhất 5,00 điểm.
+    - nhưng đối với ngành Kiến trúc, thí sinh phải thi môn năng khiếu Vẽ mỹ thuật và đạt ít nhất 5,00 điểm.
   - - Thí sinh tốt nghiệp THPT năm 2024 có được công nhận trúng tuyển sớm ngay không?
     - Không, thí sinh chỉ đủ điều kiện trúng tuyển tạm thời và phải đảm bảo điều kiện tốt nghiệp THPT để chính thức trúng tuyển.
   - - Điều kiện để xử lý nguyện vọng xét tuyển trên hệ thống Bộ GDĐT là gì?
@@ -252,7 +252,7 @@ conversations:
   - - Khi nào hệ thống Bộ GDĐT xử lý nguyện vọng?
     - Hệ thống Bộ GDĐT xử lý nguyện vọng theo kế hoạch chung của Bộ GDĐT, sau khi kết thúc xét tuyển sớm.
   - - Thí sinh xét tuyển ngành Kiến trúc có cần đăng ký nguyện vọng trên hệ thống Bộ GDĐT không?
-    - Có, thí sinh cần đăng ký ngành Kiến trúc trên hệ thống Bộ GDĐT và phải có điểm môn Vẽ mỹ thuật đạt từ 5,00 trở lên.
+    - thí sinh cần đăng ký ngành Kiến trúc trên hệ thống Bộ GDĐT và phải có điểm môn Vẽ mỹ thuật đạt từ 5,00 trở lên.
   - - Nếu đã nộp hồ sơ xét tuyển sớm nhưng không muốn tiếp tục xét tuyển, thí sinh có cần làm gì không?
     - Không, nếu thí sinh không đăng ký nguyện vọng trên hệ thống Bộ GDĐT, nguyện vọng xét tuyển sớm sẽ không được xử lý.
   - - Có thể thay đổi nguyện vọng xét tuyển sớm sau khi đăng ký trên hệ thống Bộ GDĐT không?
@@ -288,9 +288,9 @@ conversations:
   - - Thí sinh đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT ở đâu?
     - Thí sinh đăng ký trên cổng thông tin tuyển sinh và theo kế hoạch tuyển sinh chung của Bộ GDĐT.
   - - Điểm ưu tiên có được tính vào điểm xét tuyển không?
-    - Có, điểm ưu tiên khu vực và đối tượng được cộng vào điểm xét tuyển theo quy định.
+    - điểm ưu tiên khu vực và đối tượng được cộng vào điểm xét tuyển theo quy định.
   - - Điểm xét tuyển có phải luôn theo thang điểm 30 không?
-    - Có, điểm xét tuyển được quy đổi về thang điểm 30 sau khi áp dụng hệ số của từng môn trong tổ hợp xét tuyển.
+    - điểm xét tuyển được quy đổi về thang điểm 30 sau khi áp dụng hệ số của từng môn trong tổ hợp xét tuyển.
   - - Có bao nhiêu môn được tính vào điểm xét tuyển?
     - Tổng điểm xét tuyển được tính dựa trên 3 môn thuộc tổ hợp xét tuyển của từng ngành.
   - - Điểm ưu tiên được tính như thế nào?
@@ -306,7 +306,7 @@ conversations:
   - - Một thí sinh có thể đăng ký tối đa bao nhiêu nguyện vọng xét tuyển?
     - Thí sinh có thể đăng ký tối đa 05 nguyện vọng, sắp xếp theo thứ tự ưu tiên từ cao xuống thấp.
   - - Thí sinh đủ điều kiện trúng tuyển sớm có cần đăng ký lên hệ thống của Bộ GDĐT không?
-    - Có, thí sinh đủ điều kiện trúng tuyển sớm phải tiếp tục đăng ký nguyện vọng lên hệ thống của Bộ GDĐT theo kế hoạch chung để được xét tuyển chính thức.
+    - thí sinh đủ điều kiện trúng tuyển sớm phải tiếp tục đăng ký nguyện vọng lên hệ thống của Bộ GDĐT theo kế hoạch chung để được xét tuyển chính thức.
   - - Điều gì xảy ra nếu thí sinh không đăng ký nguyện vọng đã đủ điều kiện trúng tuyển lên hệ thống của Bộ GDĐT?
     - Thí sinh sẽ không được xét tuyển chính thức và được xem như từ chối nguyện vọng đã đủ điều kiện trúng tuyển.
   - - Thí sinh có bắt buộc đặt nguyện vọng đã đủ điều kiện trúng tuyển lên hệ thống Bộ GDĐT là nguyện vọng 1 không?
@@ -314,7 +314,7 @@ conversations:
   - - Thí sinh có thể xem thông tin chi tiết về xét tuyển ở đâu?
     - Thí sinh có thể xem chi tiết tại https://dut.udn.vn/Tuyensinh2024/Gioithieu/id/8923.
   - - Có quy định nào về việc nộp nhiều hồ sơ xét tuyển không?
-    - Có, nếu một thí sinh nộp nhiều hồ sơ, các hồ sơ sau sẽ không được xét.
+    - nếu một thí sinh nộp nhiều hồ sơ, các hồ sơ sau sẽ không được xét.
   - - Nếu đăng ký sai thông tin nguyện vọng thì có được xét tuyển không?
     - Không, các nguyện vọng không đầy đủ thông tin hoặc thông tin không chính xác sẽ không được xét.
   - - Sau khi đã đăng ký trực tuyến, thí sinh có thể thay đổi thông tin không?
@@ -336,9 +336,9 @@ conversations:
   - - Nếu tôi tốt nghiệp THPT năm 2024 thì có cần điều kiện gì khác không?
     - Thí sinh phải tốt nghiệp THPT để đủ điều kiện trúng tuyển chính thức.
   - - Tôi đã đăng ký xét tuyển sớm, nhưng có thể xét tuyển theo phương thức khác không?
-    - Có, thí sinh có thể đăng ký xét tuyển theo các phương thức khác nếu đáp ứng điều kiện.
+    - thí sinh có thể đăng ký xét tuyển theo các phương thức khác nếu đáp ứng điều kiện.
   - - Nếu tôi đã trúng tuyển theo phương thức này, tôi có thể đổi sang phương thức khác không?
-    - Có, nhưng phải đăng ký lại nguyện vọng theo kế hoạch của Bộ GDĐT.
+    - nhưng phải đăng ký lại nguyện vọng theo kế hoạch của Bộ GDĐT.
   - - Làm thế nào để tôi biết mình có trúng tuyển hay không?
     - Kết quả sẽ được công bố trên hệ thống sau 20 ngày kể từ khi hết hạn nhận hồ sơ.
   - - Kỳ thi Đánh giá tư duy do trường nào tổ chức?
@@ -366,23 +366,23 @@ conversations:
   - - Thí sinh đạt giải học sinh giỏi quốc gia cần điều kiện gì để được xét tuyển thẳng?
     - Thí sinh đạt giải nhất, nhì, ba trong kỳ thi học sinh giỏi quốc gia các môn Toán, Vật lý, Hóa học, Sinh học, Tin học do Bộ GDĐT tổ chức, cử tham gia và tốt nghiệp THPT năm 2024. Thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
   - - Thí sinh đạt giải trong kỳ thi khoa học kỹ thuật có được xét tuyển thẳng không?
-    - Có, thí sinh đạt giải nhất, nhì, ba trong kỳ thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia, và tốt nghiệp THPT năm 2024. Thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
+    - thí sinh đạt giải nhất, nhì, ba trong kỳ thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia, và tốt nghiệp THPT năm 2024. Thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
   - - Thí sinh là người khuyết tật đặc biệt nặng có được ưu tiên xét tuyển không?
-    - Có, nếu thí sinh có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định và có khả năng theo học một số ngành do cơ sở đào tạo quy định nhưng không thể dự tuyển theo phương thức tuyển sinh bình thường.
+    - nếu thí sinh có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định và có khả năng theo học một số ngành do cơ sở đào tạo quy định nhưng không thể dự tuyển theo phương thức tuyển sinh bình thường.
   - - Thí sinh là người dân tộc thiểu số rất ít người có được ưu tiên xét tuyển không?
-    - Có, thí sinh thuộc nhóm người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ sẽ được ưu tiên xét tuyển thẳng.
+    - thí sinh thuộc nhóm người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ sẽ được ưu tiên xét tuyển thẳng.
   - - Thí sinh thuộc 20 huyện nghèo biên giới, hải đảo khu vực Tây Nam Bộ có được ưu tiên xét tuyển không?
-    - Có, thí sinh thuộc 20 huyện nghèo biên giới, hải đảo khu vực Tây Nam Bộ sẽ được ưu tiên xét tuyển vào các ngành đăng ký.
+    - thí sinh thuộc 20 huyện nghèo biên giới, hải đảo khu vực Tây Nam Bộ sẽ được ưu tiên xét tuyển vào các ngành đăng ký.
   - - Thí sinh có hộ khẩu thường trú từ 3 năm trở lên tại huyện nghèo có được ưu tiên xét tuyển không?
-    - Có, nếu thí sinh có hộ khẩu thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo theo quy định của Chính phủ, Thủ tướng Chính phủ.
+    - nếu thí sinh có hộ khẩu thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo theo quy định của Chính phủ, Thủ tướng Chính phủ.
   - - Thí sinh là người nước ngoài có thể đăng ký xét tuyển thẳng không?
-    - Có, nếu thí sinh có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT.
+    - nếu thí sinh có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT.
   - - Nguyên tắc xét tuyển thẳng được thực hiện như thế nào?
     - Thí sinh được xét tuyển vào ngành đúng trước, sau đó xét vào ngành gần. Thí sinh có thể đăng ký nhiều ngành khác nhau theo thứ tự ưu tiên và được xét theo thứ tự giải từ cao xuống thấp cho đến khi đủ chỉ tiêu.
   - - Một thí sinh có thể trúng tuyển nhiều nguyện vọng không?
     - Không, mỗi thí sinh trúng tuyển một nguyện vọng sẽ không được xét tuyển các nguyện vọng tiếp theo.
   - - Thí sinh đăng ký ngành Kiến trúc có cần thi thêm môn nào không?
-    - Có, thí sinh đăng ký xét tuyển ngành Kiến trúc phải dự thi môn năng khiếu Vẽ mỹ thuật do Trường Đại học Bách khoa, Đại học Đà Nẵng tổ chức năm 2024, với điểm thi đạt từ 5,00 điểm trở lên.
+    - thí sinh đăng ký xét tuyển ngành Kiến trúc phải dự thi môn năng khiếu Vẽ mỹ thuật do Trường Đại học Bách khoa, Đại học Đà Nẵng tổ chức năm 2024, với điểm thi đạt từ 5,00 điểm trở lên.
   - - Thông tin chi tiết về nguyên tắc xét tuyển có thể xem ở đâu?
     - Thông tin chi tiết về nguyên tắc xét tuyển, ngưỡng đảm bảo chất lượng đầu vào và các thông tin liên quan có thể xem tại https://dut.udn.vn/Tuyensinh2024/Gioithieu/id/8922.
   - - Tôi muốn xem điểm trúng tuyển 2 năm gần nhất
@@ -391,3 +391,243 @@ conversations:
     - Thí sinh được phép điều chỉnh nguyện vọng không hạn chế số lần trên hệ thống của Bộ Giáo dục và Đào tạo
   - - Làm thế nào để đổi nguyện vọng đăng ký sau khi thi xong chưa có kết quả trúng tuyển?
     - Theo quy định của Bộ Giáo dục và Đào tạo, thí sinh thay đổi nguyện vọng bằng hình thức trực tuyến trong khoảng thời gian từ 19/7 đến 26/7. Hình thức này áp dụng cho thí sinh chỉ thay đổi nguyện vọng mà không làm tăng số nguyện vọng so với lượng đăng ký ban đầu.Chi tiết xem thêm tại https://saodo.edu.vn/vi/about/Huong-dan-thi-sinh-thay-doi-chinh-sua-nguyen-vong-dang-ky-xet-tuyen-vao-truong-Dai-hoc-Sao-Do-qua-web-truc-tuyen.html#:~:text=B%C6%B0%E1%BB%9Bc%201%3A%20Th%C3%AD%20sinh%20%C4%91%C4%83ng,%22ch%E1%BB%89nh%20s%E1%BB%ADa%20nguy%E1%BB%87n%20v%E1%BB%8Dng%22.
+  - - Chỉ tiêu tuyển sinh dự kiến năm 2025 là bao nhiêu?
+    - Chỉ tiêu tuyển sinh dự kiến của trường Đại học Bách Khoa Đà Nẵng là 3900 chỉ tiêu
+  - - Trang thông tin tuyển sinh chính quy năm 2022 của trường là gì?
+    - Trang thông tin tuyển sinh năm 2022 là https://dut.udn.vn/TuyenSinh2022
+  - - Trang thông tin tuyển sinh chính quy năm 2023 của trường là gì?
+    - Trang thông tin tuyển sinh năm 2023 là https://dut.udn.vn/TuyenSinh2023
+  - - Trường có sử dụng phương thức thi tuyển để xét tuyển không?
+    - Trường chỉ sử dụng phương thức xét tuyển và kết hợp thi tuyển với xét tuyển.
+  - - Trường sử dụng những phương thức tuyển sinh nào trong năm 2022?
+    - Năm 2022, trường sử dụng phương thức xét tuyển và kết hợp thi tuyển với xét tuyển.
+  - - Trường sử dụng những phương thức tuyển sinh nào trong năm 2023?
+    - Năm 2023, trường sử dụng phương thức xét tuyển và kết hợp thi tuyển với xét tuyển.
+  - - Trường có tuyển thẳng không? Nếu theo tiêu chí nào?
+    - trường tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo.
+  - - Trường có xét tuyển theo kết quả kỳ thi tốt nghiệp THPT không?
+    - Trường có xét tuyển theo kết quả kỳ thi tốt nghiệp THPT.
+  - - Trường có xét tuyển theo học bạ không?
+    - trường xét tuyển theo kết quả học tập THPT (học bạ).
+  - - Trường có xét tuyển theo phương thức riêng không?
+    - trường có xét tuyển theo phương thức tuyển sinh riêng của Trường.
+  - - Trường có xét tuyển theo kỳ thi Đánh giá năng lực (ĐGNL) không?
+    - trường xét tuyển theo kết quả kỳ thi Đánh giá năng lực do ĐHQG TP.HCM tổ chức.
+  - - Trường có xét tuyển theo kỳ thi Đánh giá tư duy (ĐGTD) không?
+    - trường xét tuyển theo kết quả kỳ thi Đánh giá tư duy do Đại học Bách khoa Hà Nội tổ chức.
+  - - Ngành nào cần kết hợp thi tuyển với xét tuyển?
+    - Ngành Kiến trúc cần kết hợp xét tuyển với thi tuyển môn năng khiếu (Vẽ mỹ thuật).
+  - - Môn thi năng khiếu của ngành Kiến trúc là gì?
+    - Môn thi năng khiếu của ngành Kiến trúc là Vẽ mỹ thuật.
+  - - Tuyển sinh năm 2022 có áp dụng phương thức thi tuyển không?
+    - Không, năm 2022 trường không áp dụng phương thức thi tuyển, chỉ xét tuyển và kết hợp xét tuyển với thi tuyển.
+  - - Tuyển sinh năm 2023 có áp dụng phương thức thi tuyển không?
+    - Không, năm 2023 trường không áp dụng phương thức thi tuyển, chỉ xét tuyển và kết hợp xét tuyển với thi tuyển.
+  - - Trường có tổ chức kỳ thi tuyển riêng không?
+    - Không, trường không tổ chức kỳ thi tuyển riêng, chỉ xét tuyển hoặc kết hợp xét tuyển với thi tuyển môn năng khiếu.
+  - - Thí sinh có thể xét tuyển theo nhiều phương thức khác nhau không?
+    - thí sinh có thể xét tuyển theo nhiều phương thức như điểm thi THPT, học bạ, ĐGNL, ĐGTD.
+  - - Tất cả các ngành của trường đều xét tuyển bằng học bạ đúng không?
+    - Không, chỉ một số ngành xét tuyển bằng học bạ, ngành Kiến trúc yêu cầu thi thêm môn năng khiếu.
+  - - Có phải tất cả ngành đều xét tuyển theo ĐGNL của ĐHQG TP.HCM không?
+    - Không, chỉ một số ngành áp dụng xét tuyển theo kết quả ĐGNL của ĐHQG TP.HCM.
+  - - Có phải tất cả ngành đều xét tuyển theo ĐGTD của Đại học Bách khoa Hà Nội không?
+    - Không, chỉ một số ngành áp dụng xét tuyển theo kết quả ĐGTD của Đại học Bách khoa Hà Nội.
+  - - Chính sách ưu tiên xét tuyển của trường bao gồm những gì?
+    - Chính sách ưu tiên xét tuyển của trường bao gồm xét tuyển thẳng và ưu tiên xét tuyển.
+  - - Thí sinh khuyết tật có được xét tuyển thẳng không?
+    - thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật được xét tuyển thẳng nếu có khả năng theo học một số ngành do trường quy định.
+  - - Thí sinh thuộc dân tộc thiểu số rất ít người có được xét tuyển thẳng không?
+    - thí sinh là người dân tộc thiểu số rất ít người theo quy định của Chính phủ được xét tuyển thẳng.
+  - - Thí sinh từ 20 huyện nghèo biên giới, hải đảo Tây Nam Bộ có được xét tuyển thẳng không?
+    - thí sinh từ 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ được xét tuyển thẳng.
+  - - Thí sinh có hộ khẩu thường trú tại huyện nghèo có được xét tuyển thẳng không?
+    - nếu thí sinh có hộ khẩu thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại huyện nghèo theo quy định của Chính phủ.
+  - - Thí sinh là người nước ngoài có được xét tuyển thẳng không?
+    - nếu thí sinh đáp ứng yêu cầu kiểm tra kiến thức và năng lực Tiếng Việt theo quy định của Bộ GDĐT.
+  - - Nếu thí sinh thuộc diện xét tuyển thẳng nhưng không sử dụng quyền này, có được ưu tiên gì không?
+    - thí sinh sẽ được cộng thêm điểm vào tổng điểm xét tuyển của tổ hợp phù hợp.
+  - - Anh hùng lao động có được cộng điểm xét tuyển không?
+    - Anh hùng lao động được cộng 1,5 điểm vào tổng điểm xét tuyển.
+  - - Anh hùng lực lượng vũ trang nhân dân có được cộng điểm xét tuyển không?
+    - Anh hùng lực lượng vũ trang nhân dân được cộng 1,5 điểm vào tổng điểm xét tuyển.
+  - - Chiến sĩ thi đua toàn quốc có được cộng điểm xét tuyển không?
+    - Chiến sĩ thi đua toàn quốc được cộng 1,5 điểm vào tổng điểm xét tuyển.
+  - - Thí sinh đạt giải Nhất kỳ thi học sinh giỏi quốc gia được cộng bao nhiêu điểm?
+    - Thí sinh đạt giải Nhất được cộng 2 điểm vào tổng điểm xét tuyển.
+  - - Thí sinh đạt giải Nhì kỳ thi học sinh giỏi quốc gia được cộng bao nhiêu điểm?
+    - Thí sinh đạt giải Nhì được cộng 1,5 điểm vào tổng điểm xét tuyển.
+  - - Thí sinh đạt giải Ba kỳ thi học sinh giỏi quốc gia được cộng bao nhiêu điểm?
+    - Thí sinh đạt giải Ba được cộng 1 điểm vào tổng điểm xét tuyển.
+  - - Thí sinh đạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia có được cộng điểm không?
+    - Giải Nhất được cộng 2 điểm, giải Nhì cộng 1,5 điểm, giải Ba cộng 1 điểm.
+  - - Giải thưởng của thí sinh có thời hạn bao lâu để được xét ưu tiên?
+    - Thời gian đạt giải không quá 3 năm tính tới thời điểm xét tuyển.
+  - - Thí sinh đạt giải Khuyến khích kỳ thi học sinh giỏi quốc gia được cộng bao nhiêu điểm?
+    - Thí sinh đạt giải Khuyến khích được cộng 0,5 điểm vào tổng điểm xét tuyển.
+  - - Thí sinh đạt giải Khuyến khích cuộc thi khoa học, kỹ thuật cấp quốc gia có được cộng điểm không?
+    - Thí sinh đạt giải Khuyến khích được cộng 0,5 điểm vào tổng điểm xét tuyển.
+  - - Điểm ưu tiên xét tuyển được áp dụng cho tất cả các ngành đúng không?
+    - Điểm ưu tiên được cộng vào tổng điểm xét tuyển của tổ hợp phù hợp với tất cả các ngành ĐKXT.
+  - - Thí sinh có thể sử dụng nhiều chính sách ưu tiên xét tuyển không?
+    - Nếu thí sinh thuộc nhiều diện ưu tiên thì chỉ được hưởng chính sách ưu tiên cao nhất.
+  - - Thí sinh thuộc diện xét tuyển thẳng nhưng phải học bổ sung kiến thức trong trường hợp nào?
+    - Trong trường hợp cần thiết, thí sinh có thể phải học 01 năm bổ sung kiến thức trước khi vào học chính thức.
+  - - Phí xét tuyển theo phương thức tuyển thẳng là bao nhiêu?
+    - Miễn phí theo quy chế của Bộ GDĐT.
+  - - Phí xét tuyển theo phương thức tuyển sinh riêng là bao nhiêu?
+    - 30.000 đồng/nguyện vọng theo đề án tuyển sinh của trường.
+  - - Phí xét tuyển theo kết quả thi tốt nghiệp THPT là bao nhiêu?
+    - Thực hiện theo quy định hiện hành của Bộ GDĐT.
+  - - Phí xét tuyển theo kết quả học tập THPT (học bạ) là bao nhiêu?
+    - Thực hiện theo Quy định của Đại học Đà Nẵng (Quyết định số 735/QĐ-ĐHĐN ngày 22/02/2024).
+  - - Phí xét tuyển theo kết quả thi đánh giá năng lực do đại học quốc gia TpHCM tổ chức là bao nhiêu?
+    - Thực hiện theo Quy định của Đại học Đà Nẵng (Quyết định số 735/QĐ-ĐHĐN ngày 22/02/2024).
+  - - Phí xét tuyển theo kết quả thi đánh giá tư duy do Đại học Bách khoa Hà Nội tổ chức là bao nhiêu?
+    - Theo quy định của Đại học Bách khoa Hà Nội.
+  - - Phí dự thi năng khiếu môn 'Vẽ mỹ thuật' là bao nhiêu?
+    - 400.000 đồng/hồ sơ.
+  - - Phí xét tuyển có hoàn lại không nếu thí sinh không trúng tuyển?
+    - phí xét tuyển không hoàn lại nếu thí sinh không trúng tuyển.
+  - - Thí sinh có thể đóng phí xét tuyển online không?
+    - Thí sinh có thể đóng phí xét tuyển online theo hướng dẫn của trường.
+  - - Phí xét tuyển có thay đổi theo từng năm không?
+    - Phí xét tuyển có thể thay đổi theo quy định của Bộ GDĐT và trường.
+  - - Phí thi năng khiếu có áp dụng cho tất cả các ngành không?
+    - Phí thi năng khiếu chỉ áp dụng cho ngành có môn thi năng khiếu.
+  - - Phí xét tuyển có được miễn cho thí sinh đoạt giải quốc gia không?
+    - thí sinh đoạt giải quốc gia không được miễn phí phí xét tuyển, nhưng có thể xét tuyển thẳng theo quy định.
+  - - Thí sinh có thể nộp phí xét tuyển sau khi đăng ký không?
+    - Phí xét tuyển phải nộp khi đăng ký.
+  - - Nếu thí sinh rút hồ sơ có được hoàn phí xét tuyển không?
+    - Không, phí xét tuyển không hoàn lại.
+  - - Thí sinh có thể thay đổi nguyện vọng sau khi đã nộp phí không?
+    - Không, sau khi nộp phí, nguyện vọng đã đăng ký không thể thay đổi.
+  - - Phí xét tuyển được nộp qua những hình thức nào?
+    - Theo hướng dẫn của trường, có thể qua ngân hàng hoặc trực tiếp.
+  - - Thí sinh nước ngoài có phải nộp phí xét tuyển không?
+    - Thí sinh nước ngoài phải nộp phí xét tuyển theo quy định của trường.
+  - - Thí sinh có thể đăng ký xét tuyển trước rồi nộp phí sau không?
+    - Không, phải nộp phí khi đăng ký xét tuyển.
+  - - Phí xét tuyển có áp dụng cho tất cả các phương thức tuyển sinh không?
+    - Tuyển thẳng theo quy chế của Bộ GDĐT được miễn phí.
+  - - Phí dự thi năng khiếu có thể đóng chung với phí xét tuyển không?
+    - Tùy theo hướng dẫn của trường.
+  - - Phí xét tuyển có thể nộp tại trường không?
+    - Có, tùy theo phương thức nộp tiền mà trường quy định.
+  - - Phí thi năng khiếu có thể nộp online không?
+    - Tùy theo hướng dẫn của trường.
+  - - Thí sinh có thể xin miễn giảm phí xét tuyển không?
+    - Thí sinh có thể xin miễn giảm phí, nếu thuộc diện chính sách được miễn giảm.
+  - - Nếu thí sinh đăng ký nhiều phương thức xét tuyển có phải đóng phí nhiều lần không?
+    - Có, phí xét tuyển được tính theo từng phương thức riêng biệt.
+  - - Phí xét tuyển theo phương thức học bạ có giống với các phương thức khác không?
+    - Không, tùy theo quy định của trường.
+  - - Phí xét tuyển có bao gồm lệ phí nhập học không?
+    - Không, lệ phí nhập học sẽ tính riêng.
+  - - Nếu đăng ký sai thông tin xét tuyển có được hoàn phí không?
+    - Không, thí sinh cần kiểm tra kỹ trước khi nộp.
+  - - Có giới hạn số lượng nguyện vọng xét tuyển không?
+    - Không, nhưng mỗi nguyện vọng phải đóng phí theo quy định.
+  - - Phí xét tuyển có thể nộp sau khi có kết quả thi THPT không?
+    - Tùy theo quy định từng năm của trường.
+  - - Thí sinh có thể nộp phí xét tuyển qua ứng dụng ngân hàng không?
+    - Có, nếu trường hỗ trợ phương thức thanh toán này.
+  - - Phí xét tuyển có thay đổi nếu thí sinh nộp sớm không?
+    - Không, mức phí không thay đổi theo thời gian.
+  - - Thí sinh có thể đăng ký xét tuyển nhiều lần không?
+    - Có, nhưng mỗi lần đăng ký cần nộp phí xét tuyển tương ứng.
+  - - Nếu quên nộp phí xét tuyển có bị hủy nguyện vọng không?
+    - Có, nguyện vọng sẽ không hợp lệ nếu chưa nộp phí.
+  - - Phí xét tuyển có được hoàn lại nếu kỳ thi bị hủy không?
+    - Tùy theo quyết định của trường và Bộ GDĐT.
+  - - Phí xét tuyển có áp dụng cho tất cả hệ đào tạo không?
+    - Không, chỉ áp dụng cho hệ đại học chính quy.
+  - - Có thể đóng phí xét tuyển bằng tiền mặt không?
+    - Tùy theo hướng dẫn của trường.
+  - - Phí xét tuyển có được miễn cho con em thương binh, liệt sĩ không?
+    - Có, theo chính sách miễn giảm học phí của Nhà nước.
+  - - Phí thi năng khiếu có bao gồm lệ phí xét tuyển không?
+    - Không, lệ phí thi năng khiếu tính riêng.
+  - - Có thể nộp phí xét tuyển qua ví điện tử không?
+    - Tùy theo hướng dẫn của trường.
+  - - Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro
+    - Nhà trường cam kết bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro (nếu có) theo pháp luật hiện hành của Nhà nước, theo Quy chế tuyển sinh của Bộ GDĐT và của Nhà trường.
+  - - Tổng nguồn thu hợp pháp/năm của trường
+    - Tổng nguồn thu hợp pháp năm 2023 của Trường là 252 tỷ đồng.
+  - - Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh
+    - Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh là 23.000.000 đồng
+  - - Chương trình đào tạo của Trường Đại học Bách khoa, Đại học Đà Nẵng được xây dựng theo đơn vị nào?
+    - Chương trình đào tạo được xây dựng theo đơn vị tín chỉ.
+  - - Chương trình đào tạo của trường bao gồm những loại học phần nào?
+    - Gồm các học phần bắt buộc và học phần tự chọn.
+  - - Chương trình đào tạo của trường phải đáp ứng những quy định nào?
+    - Phải đáp ứng quy định của Bộ GDĐT và của Trường.
+  - - CTĐT của ngành đào tạo song ngành phải thể hiện điều gì?
+    - Phải thể hiện đủ thông tin của từng ngành.
+  - - Sinh viên được chọn giữa chương trình đào tạo cử nhân và kỹ sư vào thời điểm nào?
+    - Vào giữa học kỳ thứ 4.
+  - - Ngành Kiến trúc đào tạo theo hình thức nào?
+    - Chỉ đào tạo chuyên sâu đặc thù (cấp bằng kiến trúc sư).
+  - - Nhà trường có chính sách khen thưởng tuyển sinh không?
+    - Nhà trường có chính sách khen thưởng tuyển sinh, nhằm khuyến khích sinh viên có kết quả đầu vào xuất sắc.
+  - - Mức thưởng dành cho sinh viên thủ khoa toàn trường là bao nhiêu?
+    - Mức thưởng dành cho sinh viên thủ khoa toàn trường là 40 triệu đồng.
+  - - Sinh viên đạt giải trong cuộc thi học sinh giỏi quốc gia, quốc tế được thưởng bao nhiêu?
+    - 20 triệu đồng cho mỗi sinh viên đạt giải.
+  - - Mức thưởng dành cho sinh viên thủ khoa mỗi ngành là bao nhiêu?
+    - Mức thưởng dành cho sinh viên thủ khoa mỗi ngành là 10 triệu đồng.
+  - - Nếu có nhiều sinh viên cùng điểm xét tuyển, tiêu chí nào sẽ được ưu tiên?
+    - Thứ tự ưu tiên của tổ hợp xét tuyển và kết quả học 3 năm THPT.
+  - - Sinh viên nhận khen thưởng tuyển sinh có điều kiện gì?
+    - Phải cam kết học tập toàn khóa tại Trường Đại học Bách khoa.
+  - - Nếu vi phạm cam kết học tập, sinh viên phải làm gì?
+    - Phải bồi hoàn lại kinh phí khen thưởng.
+  - - Học bổng khuyến học được xét dựa trên tiêu chí nào?
+    - Dựa trên kết quả học tập và điểm rèn luyện.
+  - - Học bổng khuyến học được xét theo quy định nào?
+    - Theo Quy định về xét, cấp học bổng và hỗ trợ chi phí học tập hiện hành của Trường.
+  - - Sinh viên thuộc diện khen thưởng có những ưu tiên gì?
+    - Ưu tiên xét ở ký túc xá, xét chọn đề tài nghiên cứu khoa học, xét chọn đi học nước ngoài.
+  - - Những sinh viên nào được ưu tiên xét ký túc xá?
+    - Sinh viên thuộc diện được khen thưởng.
+  - - Những sinh viên nào được ưu tiên xét chọn đề tài nghiên cứu khoa học?
+    - Sinh viên thuộc diện được khen thưởng.
+  - - Những sinh viên nào được ưu tiên đi học nước ngoài theo chương trình trao đổi sinh viên?
+    - Sinh viên thuộc diện được khen thưởng.
+  - - Những sinh viên nào được ưu tiên nhận học bổng tài trợ?
+    - Sinh viên có thành tích học tập xuất sắc và kết quả rèn luyện tốt.
+  - - Những sinh viên nào được miễn giảm học phí?
+    - Sinh viên thuộc diện được hưởng theo quy định của Nhà nước.
+  - - Sinh viên thuộc gia đình nghèo có được hỗ trợ gì không?
+    - Có, được trợ cấp xã hội theo tháng/học kỳ.
+  - - Sinh viên thuộc diện hộ nghèo có được ưu tiên xét học bổng tài trợ không?
+    - Có, được ưu tiên xét nhận học bổng do cá nhân/tổ chức tài trợ.
+  - - Chính sách khen thưởng tuyển sinh áp dụng cho đối tượng nào?
+    - Sinh viên có kết quả trúng tuyển đầu vào xuất sắc.
+  - - Sinh viên nhận thưởng cần có cam kết gì?
+    - Cam kết học tập toàn khóa tại Trường.
+  - - Chương trình đào tạo gồm những cấp bằng nào?
+    - Gồm cấp bằng cử nhân, kỹ sư, kiến trúc sư.
+  - - Sinh viên có thể thay đổi lựa chọn giữa chương trình đào tạo cử nhân và kỹ sư không?
+    - Sinh viên có thể thay đổi lựa chọn giữa chương trình đào tạo cử nhân và kỹ sư, vào giữa học kỳ thứ 4.
+  - - Chương trình đào tạo có yêu cầu gì về nội dung?
+    - Phải công bố đầy đủ thông tin để sinh viên biết và lựa chọn.
+  - - Sinh viên được hỗ trợ như thế nào khi thuộc diện hộ nghèo?
+    - Được trợ cấp xã hội theo tháng/học kỳ và ưu tiên xét học bổng tài trợ.
+  - - Sinh viên được miễn giảm học phí theo quy định nào?
+    - Theo quy định của Nhà nước.
+  - - Chính sách học bổng khuyến học
+    - Sau mỗi học kỳ, căn cứ trên kết quả học tập và điểm rèn luyện, sinh viên sẽ được xét nhận học bổng khuyến học theo Quy định về xét, cấp học bổng và hỗ trợ chi phí học tập cho sinh viên đại học chính quy theo quy định hiện hành của Trường.
+  - - Chính sách miễn giảm học phí
+    - Trường thực hiện chính sách miễn giảm học phí cho sinh viên thuộc diện được hưởng theo quy định của Nhà nước
+  - - Đối tượng, điều kiện tuyển sinh
+    - Thí sinh có bằng tốt nghiệp cao đẳng hệ chính quy ngành phù hợp với ngành đăng ký xét tuyển và đảm bảo các điều kiện khác theo Quy chế tuyển sinh hiện hành.
+  - - Phạm vi tuyển sinh
+    - Trong cả nước
+  - - Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có)
+    - Học phí Năm học 2024-2025 có mức thu học phí được xác định 1,5 lần mức học phí của chương trình đại trà khoá tuyển sinh năm 2024. Mức học phí của các năm còn lại tăng theo lộ trình do Nhà nước quy định.
+  - - Tổng diện tích của trường là bao nhiêu
+    - Tổng diện tích của trường là 22,9554 hecta. Tổng diện tích sàn xây dựng phục vụ đào tạo, nghiên cứu khoa học của trường 50.866 m2, bao gồm Hội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu 27.710 m2; các Trung tâm nghiên cứu, phòng thí nghiệm, thực nghiệm, cơ sở thực hành, thực tập, luyện tập 18.717 m2; Trung tâm tư liệu 5.040m2.
+  - - Số chỗ ở ký túc xá của trường
+    - Số chỗ ở ký túc xá sinh viên của Trường là 324 phòng, với diện tích 14.636 m2. Số chỗ ở ký túc xá sinh viên của cơ sở ký túc xá thành phố Đà Nẵng tại Hòa Khánh (cách Trường 1 km) dành riêng cho sinh viên Trường Đại học Bách khoa 2.000 chỗ trong tổng số 5.000.
