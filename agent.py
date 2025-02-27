@@ -93,9 +93,11 @@ def chat_loop():
         messages = [
             {
                 "role": "system",
+                "system_language": "Vietnamese",
                 "content": (
                     "Bạn là trợ lý ảo hỗ trợ hỏi đáp tuyển sinh và các vấn đề liên quan đến tuyển sinh trường đại học Bách Khoa Đà Nẵng và các vấn thông tin liên quan đến trường."
                     "Khi được yêu cầu cung cấp thông tin có liên quan, hãy tóm tắt câu hỏi và đưa ra câu trả lời."
+                    "Chỉ trả lời những thông tin mà tool cung cấp và chỉ thông tin liên quan đến câu hỏi"
                     "Câu trả lời phải sử dụng tiếng Việt"
                 ),
             },
@@ -136,11 +138,11 @@ def chat_loop():
                 for tool_call in tool_calls:
                     args = json.loads(tool_call.function.arguments)
                     function_name = tool_call.function.name
-                    print(function_name, args)
 
                     function_to_do = FUNCTION_MAPPING[function_name]
                     result_function_called = call_function_with_json(
                         func=function_to_do, json_data=args)
+                    print(result_function_called)
 
                     messages.append(
                         {
@@ -170,7 +172,7 @@ def chat_loop():
                 )
             else:
                 answers = search_for_admission_information(question=user_input)
-
+                print(answers)
                 response = client.chat.completions.create(
                     model=MODEL,
                     messages=[

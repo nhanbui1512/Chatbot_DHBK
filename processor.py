@@ -74,11 +74,11 @@ def find_similarity_vectors(embedding_vector):
     result = []
     cosine_sim = cosine_similarity(embedding_vector, torch_embeddings, dim=1)
 
-    similar_indices = torch.where(cosine_sim >= 0.81)[0]
+    similar_indices = torch.where(cosine_sim >= 0.70)[0]
     sorted_indices = similar_indices[torch.argsort(
         cosine_sim[similar_indices], descending=True)]
 
-    top_3_indices = sorted_indices[:3]
-    for idx in top_3_indices:
+    top_4_indices = sorted_indices[:4]
+    for idx in top_4_indices:
         result.append(df.iloc[idx.item()])
     return result

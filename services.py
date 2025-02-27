@@ -2,7 +2,7 @@ from models import *
 from processor import pre_process_question, find_similarity_vectors
 
 
-def search_major_information(major_name: str, year: int):
+def search_major_information(major_name: str, year: int, admission_method: str):
     result = []
     query_string = f"SELECT * FROM data WHERE major_name LIKE '%{major_name}%' AND year = {year}"
     data = query_data(query_string=query_string)

@@ -1,3 +1,10 @@
+question_desciption = """"
+    Câu hỏi mà người dùng muốn tìm kiếm thông tin về tuyển sinh hoặc về trường đại học. Ví dụ: \n- 'Trường có những ngành đào tạo nào?'\n- 'Điều kiện tuyển sinh ngành Khoa học Máy tính là gì?'\n- 'Số điện thoại liên hệ của trường là gì?'\n- 'Trường có ký túc xá không?'
+    Hãy tóm tắt lại nội dung chính của câu hỏi
+    ví dụ : <input>Hiện tại em đang là học sinh trung học phổ thông, em muốn đăng ký vào trường đại học bách khoa thì làm thế nào<|input>
+            <output>Cách đăng ký vào trường đại học bách khoa<|output>
+"""
+
 TOOLS = [
     {
         "type": "function",
@@ -20,10 +27,6 @@ TOOLS = [
                         "enum": ["thi_THPT", "hoc_ba", "ky_thi_truong"],
                         "description": "Phương thức xét tuyển mà người dùng muốn tra cứu điểm trúng tuyển. Các giá trị có thể là: \n- 'thi_THPT': Điểm xét tuyển dựa trên kỳ thi tốt nghiệp THPT. \n- 'hoc_ba': Điểm xét tuyển dựa trên học bạ cấp 3.\n- 'ky_thi_truong': Điểm xét tuyển dựa trên kỳ thi riêng do trường tổ chức."
                     },
-                    "subject_group": {
-                        "type": "string",
-                        "description": "Tổ hợp môn xét tuyển mà người dùng quan tâm, ví dụ: 'A00' (Toán, Lý, Hóa), 'D01' (Toán, Văn, Anh)."
-                    }
                 },
                 "required": ["major_name", "year"]
             }
@@ -39,7 +42,7 @@ TOOLS = [
                 "properties": {
                     "question": {
                         "type": "string",
-                        "description": "Câu hỏi mà người dùng muốn tìm kiếm thông tin về tuyển sinh hoặc về trường đại học. Ví dụ: \n- 'Trường có những ngành đào tạo nào?'\n- 'Điều kiện tuyển sinh ngành Khoa học Máy tính là gì?'\n- 'Số điện thoại liên hệ của trường là gì?'\n- 'Trường có ký túc xá không?'"
+                        "description": question_desciption
                     }
                 },
                 "required": ["question"]
